@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        "com-train-module": "*"
+        "jurasm2/com-train-module": "*"
     }
 }
