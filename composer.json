@@ -1,0 +1,12 @@
+{
+    "name": "jurasm2/com-train-main",
+    "authors": [
+        {
+            "name": "Marek Juras",
+            "email": "marek.juras@quanti.cz"
+        }
+    ],
+    "require": {
+        "com-train-module": "*"
+    }
+}
